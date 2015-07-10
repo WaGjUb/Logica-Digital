@@ -1,0 +1,7 @@
+v 3
+file "/home/wagjub/Documents/UTFPR/ELD/vhdl/modelo_3_4/" "testbench/somador_1bit_tb.vhd" "20150514013402.000" "20150513223436.298":
+  entity somador_1bit_tb at 6( 132) + 0 on 4;
+  architecture logica of somador_1bit_tb at 13( 257) + 0 on 4;
+file "/home/wagjub/Documents/UTFPR/ELD/vhdl/modelo_3_4/" "src/somador_1bit.vhd" "20150514013427.000" "20150513223436.357":
+  entity somador_1bit at 6( 136) + 0 on 11;
+  architecture logica of somador_1bit at 14( 314) + 0 on 12;
